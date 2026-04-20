@@ -150,7 +150,7 @@ I'm always open to collaborating on ambitious AI projects, research implementati
 
 <div align="center">
 
-**[YouTube](https://youtube.com/@NakshGupta13)** · **[Twitter](https://twitter.com/YourHandle)** · **[Email](naksh.build@gmail.com)**
+**[YouTube](https://youtube.com/@NakshGupta13)** · **[Email](naksh.build@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
