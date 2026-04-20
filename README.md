@@ -10,9 +10,7 @@
 
 *Turning research into reality — one model at a time.*
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YourChannel)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NakshGupta13)
 
 </div>
 
@@ -152,7 +150,7 @@ I'm always open to collaborating on ambitious AI projects, research implementati
 
 <div align="center">
 
-**[YouTube](https://youtube.com/@YourChannel)** · **[Twitter](https://twitter.com/YourHandle)** · **[LinkedIn](https://linkedin.com/in/YourProfile)** · **[Email](mailto:your@email.com)**
+**[YouTube](https://youtube.com/@NakshGupta13)** · **[Twitter](https://twitter.com/YourHandle)** · **[Email](naksh.build@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
