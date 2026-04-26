@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naksh7gupta.github.io-764ba2?style=for-the-badge&logoColor=white&labelColor=1a1a2e)](https://naksh7gupta.github.io/)
-[![YouTube](https://img.shields.io/badge/YouTube-@NakshGupta13-E24B4A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://youtube.com/@NakshGupta13)
+[![YouTube](https://img.shields.io/badge/YouTube-@NakshGuptaOfficial-E24B4A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://youtube.com/@NakshGuptaOfficial)
 [![Email](https://img.shields.io/badge/Email-naksh.build@gmail.com-0F6E56?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:naksh.build@gmail.com)
 
 </div>
@@ -40,7 +40,7 @@ Diffusion models, transformers, agentic workflows — all built with intent.
 |---|---|---|
 | `Product` | **Velosite** | AI-powered UI generator — prompts to functional frontends |
 | `Research` | **Diffusion Models** | DDPM · U-Net · Noise scheduling from scratch |
-| `Education` | **YouTube @NakshGupta13** | AI explained in public — clarity, depth, long-term community |
+| `Education` | **YouTube @NakshGuptaOfficial** | AI explained in public — clarity, depth, long-term community |
 | `Vision` | **Open-Source Org** | Community-first AI movement — the north star |
 
 ---
@@ -115,7 +115,7 @@ Diffusion models, transformers, agentic workflows — all built with intent.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naksh7gupta.github.io-764ba2?style=for-the-badge&labelColor=1a1a2e)](https://naksh7gupta.github.io/)
-[![YouTube](https://img.shields.io/badge/YouTube-@NakshGupta13-E24B4A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://youtube.com/@NakshGupta13)
+[![YouTube](https://img.shields.io/badge/YouTube-@NakshGuptaOfficial-E24B4A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e)](https://youtube.com/@NakshGuptaOfficial)
 [![Email](https://img.shields.io/badge/Email-naksh.build@gmail.com-0F6E56?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:naksh.build@gmail.com)
 
 </div>
