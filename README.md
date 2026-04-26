@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a **14-year-old AI Director** from Sonipat, India — building production-grade AI systems while most people my age are just getting started.
+I'm a **14-year-old AI Director** from Karnal, India — building production-grade AI systems while most people my age are just getting started.
 
 I work at the intersection of **deep learning research** and **real-world engineering** — diffusion models, transformers, agentic systems, and GenAI pipelines. I believe the future belongs to builders who understand both the theory and the tools.
 
