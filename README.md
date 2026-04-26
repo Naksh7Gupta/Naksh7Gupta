@@ -18,7 +18,8 @@
 
 | 🟣 Public Repos | 🟢 AI Products | 🔵 Primary Lang | 🟠 Vision |
 |:---:|:---:|:---:|:---:|
-| **5** | **3** | **Python** | **Open-Source AI** |
+|![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Naksh7Gupta&label=Public%20Repos&query=$.public_repos&color=764ba2&style=for-the-badge) | **Many** | **Python** | **Open-Source AI** |
+
 
 </div>
 
