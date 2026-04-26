@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Naksh%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e293b&height=140&section=header&text=Naksh%20Gupta&fontSize=44&fontColor=f8fafc&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### AI Director · Deep Learning Practitioner · Builder
+### AI Director · Builder · YouTuber
 
-*Turning research into reality — one model at a time.*
+*Turning research into reality, one model at a time.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-f2c777?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://naksh7gupta.github.io/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NakshGupta13)
+[![GitHub Followers](https://img.shields.io/github/followers/Naksh7Gupta?style=for-the-badge&color=0f172a)](https://github.com/Naksh7Gupta)
 
 </div>
 
@@ -18,140 +20,89 @@
 
 ## About Me
 
-I'm a **14-year-old AI Director** from Karnal, India — building production-grade AI systems while most people my age are just getting started.
+I'm **Naksh Gupta**, an **AI Director** from Karnal, India, building at the intersection of deep learning research, public education, and product execution.
 
-I work at the intersection of **deep learning research** and **real-world engineering** — diffusion models, transformers, agentic systems, and GenAI pipelines. I believe the future belongs to builders who understand both the theory and the tools.
+I love going beyond surface-level AI use. I like understanding the internals, implementing ideas from scratch, and turning those experiments into products, content, and momentum.
 
-Currently focused on:
-- 🧠 Building **Velosite** — an AI-powered UI & website generator
-- 📺 Growing my **YouTube channel** to democratize AI knowledge
-- 🔬 Implementing SOTA architectures from scratch to deeply understand them
-- 🌐 Building toward an **open-source AI community**
+## What I Do
 
----
+- Build AI-first products with real-world potential
+- Implement research concepts like diffusion models and deep learning systems from scratch
+- Share AI knowledge publicly through YouTube
+- Move toward an open-source AI community with long-term vision
+
+## Portfolio
+
+My personal website is live here:
+
+**[naksh7gupta.github.io](https://naksh7gupta.github.io/)**
+
+It brings together my projects, direction, and builder identity in one place.
+
+## Current Focus
+
+- **Velosite**: AI-powered UI and website generation
+- **Diffusion Models**: learning by implementing core generative systems
+- **Agentic AI**: building smarter product workflows
+- **YouTube Growth**: teaching AI in public with clarity and ambition
+
+## Featured Projects
+
+### Velosite
+AI-powered website and UI generator that turns prompts into functional frontend interfaces.
+
+[View Repo](https://github.com/Naksh7Gupta/Velosite)
+
+### Diffusion-Model
+DDPM from scratch with U-Net, training pipeline, noise scheduling, and generated MNIST samples.
+
+[View Repo](https://github.com/Naksh7Gupta/Diffusion-Model)
+
+### NeuraNova
+AI-powered chatbot project focused on natural language interaction and practical intelligence systems.
+
+[View Repo](https://github.com/Naksh7Gupta/NeuraNova)
+
+### Loan-approval-Project
+Machine learning system trained on loan approval data with strong predictive accuracy and deployment intent.
+
+[View Repo](https://github.com/Naksh7Gupta/Loan-approval-Project)
 
 ## Tech Stack
 
-**Deep Learning & AI**
+**AI / Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Languages & Backend**
+**Languages / Product**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**MLOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Velosite
-**AI-powered UI & Website Generator**
-
-Turn simple text prompts into fully functional web interfaces in seconds. Built with an agentic backend that understands design intent and generates clean, modern code.
-
-`Python` `FastAPI` `Agentic AI` `CSS`
-
-[View Repo →](https://github.com/Naksh7Gupta/Velosite)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 Diffusion Model from Scratch
-**DDPM · U-Net · MNIST Generation**
-
-Implemented Denoising Diffusion Probabilistic Models from the ground up — forward/reverse diffusion, noise scheduling, full training pipeline. Successfully generates MNIST digit samples.
-
-`PyTorch` `U-Net` `DDPM` `Generative AI`
-
-[View Repo →](https://github.com/Naksh7Gupta/Diffusion-Model)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 NeuraNova
-**AI-Powered Chatbot**
-
-Intelligent conversational agent with context awareness and natural language understanding.
-
-`Python` `GenAI` `NLP`
-
-[View Repo →](https://github.com/Naksh7Gupta/NeuraNova)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Loan Approval Predictor
-**95%+ Accuracy ML Model**
-
-End-to-end machine learning pipeline trained on real-world loan approval data. Covers feature engineering, model selection, and evaluation.
-
-`Python` `scikit-learn` `JavaScript`
-
-[View Repo →](https://github.com/Naksh7Gupta/Loan-approval-Project)
-
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naksh7Gupta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naksh7Gupta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naksh7Gupta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f2c777&icon_color=f2c777&text_color=e5e7eb" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naksh7Gupta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f2c777&text_color=e5e7eb" height="165"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naksh7Gupta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
-
-</div>
-
----
-
-## What I'm Working On
-
-```text
-🔨  Velosite          ████████████░░░░   Active Development
-📺  YouTube Channel   ██████░░░░░░░░░░   Building Audience
-🧪  New AI Research   ████░░░░░░░░░░░░   Exploring
-🌐  Open Source Org   ██░░░░░░░░░░░░░░   Long-term Vision
-```
-
----
 
 ## Let's Connect
 
-I'm always open to collaborating on ambitious AI projects, research implementations, or anything that pushes the boundary of what's possible.
+- Portfolio: [naksh7gupta.github.io](https://naksh7gupta.github.io/)
+- YouTube: [@NakshGupta13](https://youtube.com/@NakshGupta13)
+- Email: `naksh.build@gmail.com`
 
-> *"The best way to predict the future is to build it."*
+> *The future belongs to builders who understand both the theory and the tools.*
 
 <div align="center">
 
-**[YouTube](https://youtube.com/@NakshGupta13)** · **[Email](naksh.build@gmail.com)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:111827&height=90&section=footer" width="100%"/>
 
 </div>
